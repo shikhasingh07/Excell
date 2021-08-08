@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #9ec5fe !important;
+  font-family: "Architects Daughter", cursive;
+}
+.app {
+  height: 100vh;
+}
+.headerDate {
+  color: #084298 !important;
+  font-size: medium;
+  font-family: cursive;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+.conatinerTodo {
+  width: 50%;
+  background-color: #f1f5f8;
+  background-image: radial-gradient(
+    rgba(196, 221, 248, 0.849) 7.2%,
+    transparent 0
+  );
+  background-size: 25px 25px;
+  border-radius: 2rem;
+}
+.editBtn {
+  background-color: #3d8bfd !important;
+  color: #f1f5f8 !important;
+}
+.btnHeader {
+  font-weight: 800 !important;
+  height: 16px !important;
+  width: 16px !important;
+}
+.funtionBtn {
+  border: 1px solid #0d6efd !important;
+  color: #8dafe2 !important;
+  border-radius: 5px !important;
+  width: 7.245rem !important;
+  padding: 10px 30px !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  line-height: 19px !important;
+}
+.headerCol {
+  font-size: 16px !important;
+  text-transform: capitalize;
+}
+.headerCol h5 {
+  color: #084298 !important;
+  font-size: medium;
+  font-family: cursive;
+}
